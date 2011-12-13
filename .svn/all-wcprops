@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1517/branches/1.0/php/locale/en
+END
+deliver.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/deliver.php
+END
+welcome.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1289/branches/1.0/php/locale/en/welcome.php
+END
+reportspam.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/reportspam.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1486/branches/1.0/php/locale/en/settings.php
+END
+xlogin.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/xlogin.php
+END
+adminhelp.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1517/branches/1.0/php/locale/en/adminhelp.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/auth.php
+END
+xadminusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1396/branches/1.0/php/locale/en/xadminusers.php
+END
+wblist.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1476/branches/1.0/php/locale/en/wblist.php
+END
+quarantine.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1255/branches/1.0/php/locale/en/quarantine.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/login.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/logout.php
+END
+adminusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/adminusers.php
+END
+internal-init.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/internal-init.php
+END
+deleteitem.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/deleteitem.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/smtp.php
+END
+rulestats.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/rulestats.php
+END
+mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/mime.php
+END
+help.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/help.php
+END
+admindex.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/admindex.php
+END
+quickstats.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1289/branches/1.0/php/locale/en/quickstats.php
+END
+adminsystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1433/branches/1.0/php/locale/en/adminsystem.php
+END
+stats.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/stats.php
+END
+adminthemes.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/adminthemes.php
+END
+listcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1498/branches/1.0/php/locale/en/listcache.php
+END
+admindomains.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1420/branches/1.0/php/locale/en/admindomains.php
+END
+display.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1476/branches/1.0/php/locale/en/display.php
+END
+adminstats.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/adminstats.php
+END
+adminviruses.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/adminviruses.php
+END
+errors.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1494/branches/1.0/php/locale/en/errors.php
+END
+viewmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1469/branches/1.0/php/locale/en/viewmail.php
+END
+falsenegative.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/falsenegative.php
+END
+confirmspam.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/confirmspam.php
+END
+adminlanguages.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/adminlanguages.php
+END
+db.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1385/branches/1.0/php/locale/en/db.php
+END
+virusstats.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1251/branches/1.0/php/locale/en/virusstats.php
+END
+domainsettings.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1517/branches/1.0/php/locale/en/domainsettings.php
+END
